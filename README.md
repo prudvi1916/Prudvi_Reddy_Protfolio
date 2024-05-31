@@ -8,14 +8,14 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 ## Screenshots
 
 <p float="center">
-    <img src="https://github.com/arasgungore/arasgungore.github.io/blob/main/Screenshots/1.png" width="800">
+    <img src="https://github.com/prudvi1916/Prudvi_Reddy_Protfolio/blob/main/Screenshots/sc1.png" width="800">
 </p>
 
 
 
-## Author
+## Connect
 
-👤 **Aras Güngöre**
+👤 **Prudvi Reddy**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
+* LinkedIn: [@arasgungore](https://www.linkedin.com/in/prudvi-reddy-poli-3b2430237/)
 * GitHub: [@arasgungore](https://github.com/arasgungore)
