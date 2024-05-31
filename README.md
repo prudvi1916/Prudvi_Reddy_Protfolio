@@ -17,5 +17,5 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 
 👤 **Prudvi Reddy**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/prudvi-reddy-poli-3b2430237/)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* LinkedIn: [@prudvi_reddy_poli](https://www.linkedin.com/in/prudvi-reddy-poli-3b2430237/)
+* GitHub: [@aprudvi_reddy_poli](https://github.com/prudvi1916)
