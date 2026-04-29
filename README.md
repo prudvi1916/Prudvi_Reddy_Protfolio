@@ -1,4 +1,4 @@
-# Prudvi_Reddy_Protfolio fba
+# Prudvi_Reddy_Protfolio fba th
 ## prudvi1916.github.io
 
 My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://prudvi1916.github.io/Prudvi_Reddy_Protfolio/).
